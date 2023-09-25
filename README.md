@@ -2,7 +2,7 @@
 
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/114812664?s=400&u=8882bf74e1360f8bac8b6fc0902c6b159c2f95d9&v=4"  alt="profile logo"  />
+<img src="https://avatars.githubusercontent.com/u/114812664?s=400&u=8882bf74e1360f8bac8b6fc0902c6b159c2f95d9&v=4" width="50" height="50"  alt="profile logo"  />
 
 </div>
 
